@@ -1,10 +1,9 @@
 <div align="center">
   <h1 align="center">Login Site</h1>
   <h3>User Authentication Site</h3>
-
-<br/>
-
+  
 This website allows a user to create an account or be authenticated to log into the platform.
+</div>
 
 ## Features
 
@@ -13,15 +12,12 @@ This website allows a user to create an account or be authenticated to log into 
 
 
 ## Demo 
-[![Watch a demo]("C:\Users\mumfo\Videos\login_system.mp4")]("C:\Users\mumfo\Videos\login_system.mp4")
-
-
-
+![Watch a demo]("C:\Users\mumfo\Videos\login_system.mp4")
 
 ## Tech Stack
 
 - [React](https://react.dev/) – library
-- React-Router-DOM](https://reactrouter.com/en/main) - library for managing routes and data in React applications
+- [React-Router-DOM](https://reactrouter.com/en/main) - library for managing routes and data in React applications
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) – language
 - [Node.js](https://nodejs.org/en) - JavaScript runtime environment
 - [Express](https://expressjs.com/) - web framework for Node.Js
